@@ -1,52 +1,131 @@
- Structured Mental Health Awareness Program
-Empowering Minds Through Education, Engagement, and Action
- Program Duration & Format
-Duration: 5 sessions delivered over 2 weeks (alternate days).
+ Subtask 3: Awareness Program Submission & Checklist
+ 1. Comprehensive Program Outline
+Program Title: Mind Matters: A Mental Health Awareness Series
 
-Format:
+Duration & Format:
 
- Workshops/Webinars: Expert-led sessions on core mental health concepts.
+1-week campaign
 
- Self-Guided Modules: Printable resources for continued learning.
+Hybrid model: combination of webinars, printable modules, and peer-led group discussions
 
- Peer Discussions: Guided small-group conversations and reflections.
+Target Audience:
 
- Multimedia: Infographics, videos, and role-play demonstrations.
+Youth aged 18–30 (college students and early professionals)
 
- Program Structure & Learning Objectives
-Session	Topic	Objective
-1	Understanding Mental Health & Common Disorders	Define key mental health conditions (e.g., anxiety, depression, stress).
-2	Cognitive Biases & Mental Health Stigma	Identify biases like confirmation bias and how they fuel stigma.
-3	Building Emotional Resilience	Teach mindfulness, grounding, and emotional regulation techniques.
-4	Help-Seeking & Support Networks	Practice communication strategies and normalize seeking help.
-5	Long-Term Strategies & Reflection	Promote goal-setting and sustainable mental wellness planning.
+Key Psychological Objectives:
 
-Each session uses Dual-Coding Theory (visual + verbal content), Cognitive Load Theory (segmented topics), and Social Learning Theory (modeling behavior) to maximize engagement and retention.
+Reduce stigma associated with mental health
 
- Engagement & Interactive Activities
- Interactive Quizzes: Myth-busting mental health misconceptions.
+Promote help-seeking behavior
 
- Role-Play Exercises: How to support a peer showing signs of distress.
+Build emotional resilience
 
- Case Studies: Analyze real-life scenarios and decision-making.
+Normalize conversations around mental well-being
 
- Mindfulness Practice: Guided techniques at the end of each session.
+Session Breakdown:
 
- Peer-Led Discussions: Safe spaces for sharing and reflection.
+Day 1: Understanding Mental Health & Common Disorders
 
- Assessment & Impact Measurement Plan
-Pre/Post Surveys: Evaluate changes in mental health knowledge and stigma levels.
+Outcome: Define anxiety, depression, and stress.
 
-Feedback Forms: Collect participant insights on content clarity and engagement.
+Activity: Short video + case discussion
 
-Behavioral Indicators: Track follow-up participation in wellness activities (e.g., journaling, help-seeking).
+Day 2: Challenging Mental Health Myths
 
-Facilitator Checklist: Session goals, attendance tracking, and post-session notes.
+Outcome: Identify biases and misconceptions
 
- Documentation for Facilitators
-Program Guide with scripted intros, activity instructions, handouts.
+Activity: Interactive quiz + myth vs. fact worksheet
 
-Learning Objectives per session with expected takeaways.
+Day 3: Coping Strategies & Emotional Resilience
 
-Participant Materials: Worksheets, reflection logs, and progress trackers.
+Outcome: Learn mindfulness, journaling, and breathing exercises
 
+Activity: Self-reflection logs + guided practice
+
+Day 4: Help-Seeking & Support Systems
+
+Outcome: Recognize when to seek help and how
+
+Activity: Role-play + resource handouts
+
+Day 5: Long-Term Wellness Planning
+
+Outcome: Create personalized wellness action plans
+
+Activity: Worksheet + group discussion
+
+ 2. Step-by-Step Guide for Facilitators
+Verbal/Non-Verbal Strategies:
+
+Maintain open body language and steady tone
+
+Use inclusive language; validate emotions
+
+Make eye contact and nod to show understanding
+
+Materials Needed:
+
+Printed handouts and reflection worksheets
+
+Laptop/projector for videos and slides
+
+Case study sheets
+
+Feedback and survey forms
+
+Discussion Guidelines:
+
+Ensure a safe, respectful environment
+
+Allow anonymity in sensitive discussions
+
+Provide mental health helpline info at each session
+
+ 3. Educational Materials & Engagement Activities
+Material 1: Myth vs. Fact Handout
+
+Common mental health myths debunked with real statistics and research-based facts
+
+Material 2: Stress Management Log Worksheet
+
+Students track their mood, triggers, and coping tools over 5 days
+
+Optional Add-ons:
+
+Infographic: “5 Coping Tools You Can Use Today”
+
+Role-play script: “How to Support a Friend Experiencing Anxiety”
+
+ 4. Assessment & Evaluation Plan
+Pre-Program Survey:
+
+Baseline knowledge on mental health
+
+Attitudes toward therapy and stigma
+
+Post-Program Survey:
+
+Increase in understanding
+
+Readiness to seek help
+
+Confidence in using coping tools
+
+Feedback Form Questions:
+
+Most engaging activity
+
+Suggestions for improvement
+
+Overall comfort and clarity
+
+ 5. Final Checklist for Readiness
+ Program sessions defined with learning goals
+
+ Facilitator guide written with clarity
+
+ Supporting materials (handouts + worksheets) created
+
+ Pre- and post-surveys finalized
+
+ Peer feedback collected and minor content revisions made
