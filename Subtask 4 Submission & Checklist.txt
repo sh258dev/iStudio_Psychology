@@ -1,0 +1,67 @@
+1. Summary Document: Decision-Making Theories & Cognitive Biases in Mental Health
+Decision-making about mental health is often influenced by emotion, social pressure, and ingrained beliefs rather than rational logic. Several psychological theories help explain this:
+
+ Key Theories:
+Bounded Rationality: Individuals often make decisions with limited time and information, relying on mental shortcuts.
+
+Prospect Theory: People fear losses more than they value gains, making them reluctant to seek help if it risks social acceptance.
+
+Dual-Process Theory: Decisions are often driven by fast, emotional thinking (System 1) instead of slow, deliberate reasoning (System 2).
+
+ Common Biases Affecting Mental Health Decisions:
+Confirmation Bias – Individuals seek out information that supports their beliefs (e.g., "therapy doesn't work") and ignore opposing evidence.
+
+Optimism Bias – People believe they're less likely to experience mental health issues, leading to complacency or denial.
+
+Status Quo Bias – A preference to maintain one’s current state discourages people from seeking new help or interventions.
+
+These biases contribute to stigma, delayed help-seeking, and misunderstanding of mental health resources.
+
+ 2. Analysis of a Cognitive Bias: Case Study Example
+ Case Study: Sarah, a 22-Year-Old University Student
+Sarah has been feeling anxious and unmotivated for months but avoids seeking counseling. She believes only “serious” cases need therapy.
+
+ Biases at Play:
+Confirmation Bias: Sarah only pays attention to online posts or peers who mock therapy or view it as unnecessary.
+
+Optimism Bias: She believes her anxiety is temporary and will resolve without professional help.
+
+Loss Aversion: She fears losing her reputation as a “strong, independent person” if others find out she’s seeing a counselor.
+
+ Consequences:
+Sarah’s biases lead her to delay intervention. Her academic performance declines, and she begins to isolate herself. The stigma surrounding mental health, reinforced by internal biases, prevents her from getting timely support.
+
+ 3. Strategy Guide to Reduce Cognitive Biases in Mental Health Awareness
+ Strategy 1: Normalize Help-Seeking through Storytelling
+Share real stories in campaigns showing ordinary people (students, parents, workers) benefiting from therapy. This reduces stigma and challenges optimism/status quo bias.
+
+ Strategy 2: Promote Critical Thinking in Education
+Introduce workshops or school curricula that address mental health myths, challenge stereotypes, and encourage questioning of internalized beliefs (combats confirmation bias).
+
+ Strategy 3: Use Framing & Nudging
+Frame therapy as a gain (“Invest in your peace of mind”) rather than a loss (“Don’t let stress destroy your life”) to reduce fear-based decision-making and increase openness.
+
+ 4. Visual Aid: Cognitive Biases & Mental Health Decision-Making (Flowchart)
+Here's a conceptual flowchart (you can turn this into a graphic using Canva, PowerPoint, or any infographic tool):
+
+
+Mental Health Concern
+        ↓
+   ↓ Cognitive Biases ↓
+ --------------------------
+|  Confirmation Bias       | → Rejects new info → Reinforces stigma
+|  Optimism Bias           | → "It won't happen to me" → Avoids prevention
+|  Status Quo Bias         | → "I’ll handle it later" → Avoids change
+ --------------------------
+        ↓
+ Poor Decision-Making
+ (Delay, denial, silence)
+        ↓
+ Increased Distress
+        ↓
+ Campaign Intervention:
+ - Storytelling
+ - Myth Busting
+ - Framing
+        ↓
+ Improved Help-Seeking Behavior
