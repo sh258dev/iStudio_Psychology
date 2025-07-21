@@ -1,0 +1,104 @@
+ Subtask 2: Design a Mental Health Awareness Evaluation Plan
+ Purpose
+This evaluation plan outlines how the effectiveness of a mental health awareness campaign will be measured using psychological tools, ensuring that the outcomes such as increased knowledge, reduced stigma, and behavioral changes are assessed methodically and ethically.
+
+ Step 1: Define Evaluation Objectives
+The evaluation aims to measure:
+
+Increase in mental health knowledge
+→ Understanding symptoms, causes, and treatments of common mental disorders.
+
+Reduction in stigma
+→ Change in attitudes toward individuals with mental health conditions.
+
+Willingness to seek help
+→ Openness to using counseling or professional resources.
+
+Behavioral change
+→ Increased discussion or sharing of mental health resources with others.
+
+ Step 2: Select Assessment Methods
+Quantitative Methods:
+
+Pre- and post-awareness surveys (Likert scale + multiple choice)
+
+Behavioral tracking (e.g., attendance, sign-ups for counseling, social media engagement)
+
+Qualitative Methods:
+
+Focus group feedback (post-campaign)
+
+Optional self-reflection journals from participants
+
+Advanced Method (optional):
+
+Implicit Association Test (IAT) for hidden bias tracking (for select participants)
+
+ Step 3: Timeline for Data Collection
+Evaluation Phase	Timeline	Purpose
+Pre-Campaign	1 week before campaign launch	Establish baseline awareness
+Post-Campaign	1-3 days after campaign ends	Measure immediate impact
+Follow-Up Evaluation	1 month after campaign	Evaluate knowledge/behavior retention
+
+Participant Recruitment:
+
+Voluntary sign-up forms (online or during sessions)
+
+Informed consent and confidentiality notice included
+
+ Step 4: Data Analysis Strategy
+Quantitative Analysis:
+
+Score average knowledge/attitude responses (pre vs. post)
+
+Track % improvement in survey scores
+
+Monitor engagement data (e.g., number of resources shared or events attended)
+
+Qualitative Analysis:
+
+Thematic coding of focus group feedback and journals
+
+Identify recurring themes like increased openness or emotional relief
+
+Presentation of Results:
+
+Bar/line graphs for knowledge improvement
+
+Pie charts for attitude distributions
+
+Narrative summaries for open-ended responses
+
+ Step 5: Documentation & Ethical Considerations
+Confidentiality & Ethics:
+
+All responses collected anonymously or with opt-in consent
+
+Participants can withdraw at any time
+
+Mental health support resources shared with all participants
+
+Documentation Plan:
+
+One evaluation report to include:
+
+Summary of objectives
+
+Description of tools and timeline
+
+Tables and graphs of results
+
+Participant quotes (anonymized)
+
+Recommendations for future programs
+
+ Final Deliverables
+A documented evaluation plan (PDF or digital doc)
+
+Checklist of data collection tools (surveys, focus guide, reflection journal)
+
+Visuals/graphs of campaign impact
+
+Recommendations based on data interpretation
+
+
