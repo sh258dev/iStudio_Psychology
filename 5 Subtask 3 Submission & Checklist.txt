@@ -1,0 +1,122 @@
+ Subtask 3: Submission & Checklist
+This subtask finalizes the deliverables of your Mental Health Awareness Evaluation Project. It includes a complete evaluation plan, survey tools, a data analysis guide, and a refinement strategy to ensure both impact and sustainability.
+
+ Submission Requirements
+ 1. Structured Mental Health Awareness Evaluation Plan
+Your evaluation plan must clearly outline the following:
+
+ Evaluation Objectives
+Define 3–5 key goals such as increasing knowledge, reducing stigma, and encouraging help-seeking behavior.
+
+ Assessment Methods
+List the tools to be used such as:
+
+Pre- and post-campaign surveys
+
+Focus groups/interviews
+
+Behavioral tracking (attendance, counseling requests)
+
+Optional Implicit Association Test (IAT)
+
+ Timeframe for Evaluation
+Define when and how often data will be collected:
+
+Pre-campaign (baseline)
+
+Post-campaign (short-term impact)
+
+Follow-up (long-term impact)
+
+ Data Collection Strategy
+Explain how you will collect responses:
+
+Google Forms or similar tools for surveys
+
+In-person or virtual group discussions
+
+Journaling for qualitative reflections
+
+ Data Analysis Methods
+
+Compare pre- and post-data to track change
+
+Use scoring rubrics for survey items
+
+Thematic coding for qualitative responses
+
+Visualizations: bar graphs, pie charts, summary tables
+
+ Ethical Considerations
+
+Ensure anonymity/confidentiality
+
+Obtain informed consent
+
+Provide mental health support resources
+
+ 2. Pre- and Post-Survey Questionnaires
+Each stage should have at least five questions assessing:
+
+Knowledge
+
+"What are common symptoms of anxiety?"
+
+"What is the role of a counselor in mental health care?"
+
+Attitudes
+
+"How comfortable are you discussing mental health?"
+
+"Do you think mental illness is a sign of personal weakness?"
+
+Behaviors
+
+"Would you seek professional help if experiencing emotional distress?"
+
+"Have you ever talked to someone about mental health?"
+
+All questions should use a mix of multiple-choice, Likert scales, and open-ended formats.
+
+ 3. Data Analysis & Interpretation Plan
+Create a brief summary explaining how the data will be processed:
+
+Score Likert-scale responses (1–5) and compare average results
+
+Graphs:
+
+Pre vs. Post Knowledge Levels
+
+Stigma Reduction Trends
+
+Behavior Change Metrics
+
+Interpret shifts and highlight trends
+
+Discuss limitations (bias, sample size)
+
+Use findings to identify what worked and what didn’t
+
+ 4. Feedback & Refinement Plan
+Include a plan for improving the campaign based on participant input:
+
+Post-Campaign Feedback Form
+
+Ask: "What part of the campaign did you find most impactful?"
+
+"How could this campaign be improved?"
+
+Checklist for Ethical Handling
+ Participant consent documented
+ Survey tools tested for bias
+ Support info shared
+ Data stored securely
+ Feedback reviewed for future planning
+
+ Final Deliverables Checklist
+Task	Status
+ Evaluation plan with objectives and methods	
+ Pre- and post-campaign surveys	
+ Data analysis and visualization plan	
+ Feedback collection strategy	
+ Ethical compliance checklist	
