@@ -1,0 +1,103 @@
+ Subtask 1: Explore Psychological Methods for Measuring Awareness Impact
+ Summary of Psychological Methods
+Understanding the effectiveness of a mental health awareness campaign requires a well-structured evaluation using psychological tools. These methods assess knowledge gain, attitude shifts, and behavioral change.
+
+Key Methods Include:
+
+ Pre- and Post-Assessment Surveys
+
+Measure changes in awareness and attitudes before and after the campaign.
+
+ Implicit Association Tests (IAT)
+
+Capture subconscious biases toward mental health through timed word/image responses.
+
+ Qualitative Interviews & Focus Groups
+
+Collect deeper insights on personal perceptions and emotional impact.
+
+ Behavioral Tracking & Engagement Metrics
+
+Track help-seeking actions, social media shares, and event participation.
+
+ Self-Reflection Journals
+
+Encourage participants to record personal growth and mindset changes.
+
+ Longitudinal Follow-Ups
+
+Evaluate long-term retention of information and sustained behavior changes.
+
+ Measurement Framework
+Objective:
+To evaluate changes in mental health awareness, stigma reduction, and openness to help-seeking behavior.
+
+Selected Assessment Methods:
+
+Pre- and post-campaign surveys
+
+Behavioral tracking of participation and follow-up actions
+
+Optional reflection journal
+
+Focus group feedback (post-program)
+
+Timeline:
+
+Week 0: Administer pre-campaign survey
+
+Week 1: Conduct campaign
+
+Week 2: Administer post-campaign survey + gather reflections
+
+Week 4: Collect optional follow-up feedback
+
+ Sample Pre- and Post-Awareness Survey (5 Questions)
+Type: Anonymous, Likert scale (1–Strongly Disagree to 5–Strongly Agree)
+
+I can identify the common signs of stress and anxiety.
+
+I believe mental health is as important as physical health.
+
+I would feel comfortable seeking help from a therapist or counselor.
+
+I feel confident supporting a friend dealing with a mental health issue.
+
+Talking about mental health in public or social settings is acceptable.
+
+Scoring & Analysis Plan:
+
+Calculate average score per question (pre vs. post)
+
+Analyze percentage increase in each domain (knowledge, attitude, behavior)
+
+Use visual graphs (e.g., bar chart) to present impact
+
+ Data Collection & Analysis Plan
+Tools:
+
+Google Forms for surveys
+
+Excel or Google Sheets for basic data analysis
+
+Word/Docs for qualitative reflection entries
+
+Optional: anonymized feedback via QR code or printed form
+
+Ethical Considerations:
+
+Keep all data anonymous
+
+Include disclaimers and consent checkbox
+
+Provide helpline and emergency contact info in all materials
+
+ Deliverables:
+
+Summary of methods
+
+Measurement framework
+
+Sample pre/post survey
+
+Data analysis plan
